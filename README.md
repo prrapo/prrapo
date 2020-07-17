@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, world :earth_americas:!
+Not sure how you ended up here but welcome, here's a link to my personal [blog](https://prrapo.github.io/) (WIP) and my [:camera:](https://www.instagram.com/panrrap/)
+
+## Working on
+- :guitar:
+- :baseball::milky_way:
+- :minibus:
 
 <!--
 **prrapo/prrapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
